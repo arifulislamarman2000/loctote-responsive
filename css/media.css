@@ -252,6 +252,9 @@ img, svg {
     width: 90%;
 }
 
+.navbar-nav .dropdown-menu{
+    top: -10px;
+}
 }
 
 @media(max-width: 400px){
@@ -349,5 +352,7 @@ ul.cart-menu{
 .links ul li ul li a{
     margin-left: 69px;
 }
-
+.navbar-nav .dropdown-menu{
+    top: -16px;
+}
 }
