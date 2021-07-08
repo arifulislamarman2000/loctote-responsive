@@ -1,0 +1,353 @@
+@media(max-width: 1199px){
+	.navbar-brand img{
+        width: 140px;
+	}
+	ul.cart-menu{
+		width: auto !important;
+	}
+	.navbar-collapse {
+    width: auto !important;
+    position: fixed;
+        bottom: 278px;
+}
+.banner{
+	padding: 140px 0;
+}
+
+
+.text-caption h2 {
+    margin-top: 61px;
+}
+.text-caption {
+    /* justify-content: center; */
+    padding: 0 85px;
+    padding-bottom: 43px;
+    padding-right: 10px;
+}
+.photo img {
+    position: absolute;
+    bottom: -326px;
+}
+.shopside img {
+    width: 220px;
+}
+.bag1 img {
+    width: 866px;
+}    
+.our-section {
+    padding: 60px 0px;
+}
+.our-content {
+    margin: auto;
+    padding: 50px 15px;
+}
+.testimonial-box{
+	height: 260px;
+}
+
+}
+
+@media(max-width: 991px){
+	.top-left p a {
+
+    font-weight: 200;
+    letter-spacing: 0;
+}
+.top-right ul.nav li a {
+ 
+    padding: .5rem 10px;
+}
+.navbar-nav .dropdown-menu {
+    position: absolute;
+    left: 92px;
+    top: -41px;
+    border: none;
+    transform: translate(0px, 0px);
+}
+.navbar-collapse {
+    width: auto !important;
+    position: absolute;
+    bottom: -142px;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active{
+	    padding: 120px 50px;
+}
+.shopside {
+    width: 50%;
+        padding: 10px 0px;
+}
+.shopside img {
+    width: 220px;
+}
+.bannertwo{
+	background-position: center;
+	height: 280px;
+}
+.text-caption p {
+    font-size: 12px;}
+.photo img {
+    /* position: absolute; */
+    /* bottom: -360px; */
+}
+.bag1 img {
+    width: 600px;
+}
+
+.cycle-content {
+    padding: 55px 0;
+}
+.cycle-banner{
+	height: 500px;
+}
+.cycle-content div {
+    padding: 10px 35px;    
+}
+.our-content {
+    padding: 30px 0px;
+    text-align: center;
+ }
+.feature img {
+    width: 402px;
+}
+.feature-in{
+	padding: 45px 20px;
+}
+.our-content span{
+	margin: auto;
+}
+.testimonial-box {
+    height: 260px;
+    width: 35%;
+    margin: 10px;
+}
+.links {
+    width: 50%;
+}
+}
+
+@media(max-width: 767px){
+.bannertwo{
+	background-size:contain;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    padding: 66px 50px;
+}
+.item-card{
+	padding: 0;
+}
+
+.photo{
+	position: initial ;
+}
+.photo img {
+     position: initial; 
+     bottom:0px; 
+}
+.text-caption{
+	text-align: center;
+    padding: 20px 0;
+}
+.text-caption h2 {
+    margin-top: 30px;
+}
+.text-caption p {
+    font-size: 16px;
+}
+.bag1 img {
+    width: 450px;
+}
+.bag1 h4 {
+    font-size: 23px;
+}
+
+.feature-in {
+    padding: 39px 70px;
+    text-align: center;
+}
+.cycle-banner{
+	background-size: cover;
+	    height: 500px;
+}
+.cycle-content {
+    padding: 64px 0;
+}
+.cycle-content p{
+	font-size: 14px;
+}
+.our-content span{
+	margin: auto;
+}
+.our-content{
+	text-align: center;
+}
+.testimonial-box {
+    height: 241px;
+    margin: 18px;
+    width: 40%;
+}
+.links ul li{
+	font-size: 14px;
+}
+img, svg {
+    vertical-align: middle;
+    width: 130px;
+}
+.take i {
+    font-size: 43px;
+    padding: 0px 14px;
+}
+.links {
+    width: 50%;
+}
+.our-image img {
+    width: 100%;
+}
+.p-gallery{
+	width: 50%;
+}
+}	
+
+@media(max-width: 575px){
+	.top-left{
+		text-align: center;
+	}
+	/*.top-right ul.nav{
+		justify-content: center !important;
+	}*/
+
+.item-card {
+    overflow: hidden;
+    padding: 0px 0px;
+}
+.navbar-light .navbar-brand{
+    width: 16% !important;;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    padding: 60px 50px;
+}
+.shopour span{
+	margin-bottom: 20px;
+}
+.bag1 img {
+    width: 440px;
+}
+.bag1 h4 {
+    font-size: 23px;
+}
+.bags-pic {
+    width: 100%;
+    text-align: center;
+    
+}
+.links ul li{
+	font-size: 13px;
+}
+.testimonial-box{
+	height: 270px;
+}
+.bags-pic img {
+    width: 90%;
+}
+
+}
+
+@media(max-width: 400px){
+.carousel-control-next, .carousel-control-prev{
+		width: 11%;
+}
+.w-100 {
+    width: 100%!important;
+    margin: auto;
+}
+.shopside {
+    width: 100%;
+    padding: 15px 0px;
+}
+.live-more {
+    text-align: center;
+}
+.item-card{
+	margin-bottom: 0px;
+}
+.photo img {
+    position: initial;
+    bottom: 0px;
+    width: 260px;
+}
+.text-caption h2{
+	font-size: 22px;
+}
+.text-caption p {
+    font-size: 13px;
+    margin: 0 16px;
+}
+.text-caption p {
+    font-size: 13px;
+    margin: 0 16px;
+}
+.bag1 h3{
+	padding-bottom: 0;
+}
+.bag1 img {
+    width: 320px;
+}
+.bag1 h4 {
+    font-size: 17px;
+}
+.bags-pic {
+    width: 100%;
+    text-align: center;
+}
+.bags-pic img {
+    width: 80%;
+}
+.feature-in{
+	padding: 39px 31px;
+}
+.feature img {
+    width: 80%;
+}
+.cycle-content div {
+    padding: 0px 0px;
+    text-align: center;
+}
+.our-image {
+    text-align: center;
+}
+.our-image img {
+    width: 95%;
+}
+.our-content p{
+	font-size: 15px;
+}
+.testimonial-box {
+    height: 290px;
+    margin: 18px;
+    width: 80%;
+}
+.p-gallery {
+    width: 97%;
+    margin: 10px 5px;
+}
+ul.cart-menu{
+    width: 9%!important;
+}
+.navbar-light .navbar-brand{
+        width: 40% !important;
+    }
+.navbar-light .navbar-toggler-icon{
+    width: 100%;
+    text-align: center
+}
+.navbar-light .navbar-toggler{
+    width: 10%;
+    padding: 2px;
+}
+.links ul li ul li a{
+    margin-left: 69px;
+}
+
+}
