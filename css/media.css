@@ -140,10 +140,13 @@
 
 .photo{
 	position: initial ;
+	text-align:cener;
 }
 .photo img {
      position: initial; 
      bottom:0px; 
+	width:500px;
+	margin-top:20px;
 }
 .text-caption{
 	text-align: center;
